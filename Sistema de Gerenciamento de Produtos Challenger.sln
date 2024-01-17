@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de Gerenciamento de Produtos Challenger", "Sistema de Gerenciamento de Produtos Challenger.csproj", "{A7347076-0B33-4DBC-8836-341216CFC399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7347076-0B33-4DBC-8836-341216CFC399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7347076-0B33-4DBC-8836-341216CFC399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7347076-0B33-4DBC-8836-341216CFC399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7347076-0B33-4DBC-8836-341216CFC399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75BF07F2-8427-4AAA-A151-E8BECCD99AE7}
+	EndGlobalSection
+EndGlobal
